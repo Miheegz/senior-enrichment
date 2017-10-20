@@ -1,0 +1,7 @@
+{
+  "extends": "fullstack",
+  "rules": {
+    "class-methods-use-this": 0,
+    "react/prefer-stateless-function":0
+  }
+}
